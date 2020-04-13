@@ -1,0 +1,4 @@
+#Thu Apr 09 20:38:04 PDT 2020
+base.0=/Volumes/Untitled 2/RNsources/bookreader/android/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
